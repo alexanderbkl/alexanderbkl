@@ -1,3 +1,3 @@
-[![alexanderbkl GitHub stats](https://github-readme-stats.vercel.app/api?username=alexanderbkl&count_private=true)](https://github.com/alexanderbkl)
+The cake is a lie.
 
 ![](https://komarev.com/ghpvc/?username=alexanderbkl)
