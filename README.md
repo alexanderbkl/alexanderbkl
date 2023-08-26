@@ -1,3 +1,3 @@
 The cake is a lie.
 
-![](![](https://komarev.com/ghpvc/?username=alexanderbkl&color=lightgrey))
+![](![](https://komarev.com/ghpvc/?username=alexanderbkl&color=lightgray))
